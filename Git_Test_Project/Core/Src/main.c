@@ -51,6 +51,10 @@ static void MX_GPIO_Init(void);
 void StartDefaultTask(void const * argument);
 void foo(void);
 void fooo2(void);
+void fooo3(void);
+
+
+
 
 
 /* USER CODE BEGIN PFP */
