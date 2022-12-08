@@ -31,6 +31,9 @@
 #ifndef FREERTOS_CONFIG_H
 #define FREERTOS_CONFIG_H
 
+void foo1(void);
+void foo2(void);
+
 /*-----------------------------------------------------------
  * Application specific definitions.
  *
