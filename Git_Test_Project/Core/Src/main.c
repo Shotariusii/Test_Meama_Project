@@ -57,6 +57,14 @@ void mqtt(void);
 void temp(void);
 void temp1(void);
 
+void Temp222(void);
+void Temp223(void);
+
+
+void Temp223(void);
+void Temp226(void);
+
+
 
 
 
